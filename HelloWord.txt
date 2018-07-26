@@ -1,0 +1,6 @@
+cass HellowOrd
+{
+    main(){
+    System.out.println("Hellow World");
+    }
+}
